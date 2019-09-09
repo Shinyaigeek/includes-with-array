@@ -1,8 +1,9 @@
 {
   "name": "includes-with-array",
-  "version": "0.0.1",
+  "version": "1.0.4",
   "description": "This is Function which enables you to Array.prototype.includes with array",
-  "main": "bundle.js",
+  "main": "./dist/bundle.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
