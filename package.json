@@ -1,0 +1,25 @@
+{
+  "name": "includes-with-array",
+  "version": "0.0.1",
+  "description": "This is Function which enables you to Array.prototype.includes with array",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "JavaScript",
+    "includes",
+    "array",
+    "function"
+  ],
+  "author": "Shinyaigeek <PhilisPaxil@gmail.com> (https://github.com/Shinyaigeek)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^8.0.6",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.6.2",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
